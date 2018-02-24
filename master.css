@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+
+.box {
+  background-color: tomato;
+  height: 80px;
+  width: 100%;
+  border: 3px groove gold;
+  padding:80px 0;
+  display: inline-block;
+}
